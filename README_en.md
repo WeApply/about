@@ -1,6 +1,5 @@
 # theSource College App Community
-
-- A community effort to popularize do-it-yourself college applications for (future) overseas students and to make the process more affordable.
+A community effort to popularize do-it-yourself college applications for (future) overseas students and to make the process more affordable.
 
 > The Source of the Name
 >
@@ -9,3 +8,7 @@
 > At the same time, we also want to be a source of power for individual applicants.
 
 ## To-Do List
+
+**English README**
+
+- An English version of the README file will be fully translated after we've accomplished first-wave preperations of the project.
