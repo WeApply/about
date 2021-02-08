@@ -11,6 +11,8 @@ English Version: [theSource College App Community](README_en.md)
 >
 > 与此同时，我们还希望能够成为各个申请生的力量之源。
 
+如无特殊说明，本计划的一切产物受`CC BY-NC-SA 4.0`协议保护
+
 ## 计划表
 
 **美本准入难度排名**
@@ -43,3 +45,7 @@ English Version: [theSource College App Community](README_en.md)
 为了让更多人给我们提供数据，并帮助到更多的未来留学生，我们需要宣传我们的计划与成果
 - 知乎
 - 微信
+
+**加入我们**
+
+[发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们，我们期待志同道合者的加入
