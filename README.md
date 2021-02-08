@@ -46,6 +46,6 @@ English Version: [theSource College App Community](README_en.md)
 - 知乎
 - 微信
 
-**加入我们**
+## 加入我们
 
 [发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们，我们期待志同道合者的加入
