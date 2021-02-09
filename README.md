@@ -107,4 +107,4 @@ English Version: [theSource College App Community](README_en.md)
 - 1. 无权否决一个非核心团队主导的子计划（本文的“有新点子？”部分）
 - 2. 无权违反项目所使用的Creative Commons协议
 
-我们正在筹备一套完整的架构方案。请保持关注 _(:з”∠)_
+我们正在筹备一套完整的架构方案。请保持关注 `_(:з”∠)_`
