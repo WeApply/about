@@ -89,3 +89,22 @@ English Version: [theSource College App Community](README_en.md)
 欢迎为这个项目做贡献！如果您想要帮助我们，可以采取两种途径：
 - 在我们的GitHub仓库提交issues或者pull request，或者
 - [发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们的核心团队
+
+## 组织架构
+
+作为一个社区项目，我们欢迎任何人参与进来。无论是在（未来的）问卷当中贡献您的匿名化数据给我们，还是在我们的GitHub仓库提交issues/ pull request，您都可以简单的为“源 · 申请”做贡献。
+
+当然，如果您想进一步的参与到项目的运作中，我们欢迎您加入项目的核心团队。
+
+项目的核心团队拥有以下权利：
+
+- 1. 对正在进行的项目所需要进行的调整进行投票
+- 2. 对项目本身所需要进行的调整进行投票（如：logo换新、名称调整等）
+- 3. 审核pull requests 和/ 或 issues
+
+项目的核心团队无权：
+
+- 1. 无权否决一个非核心团队主导的子计划（本文的“有新点子？”部分）
+- 2. 无权违反项目所使用的Creative Commons协议
+
+我们正在筹备一套完整的架构方案。请保持关注 _(:з”∠)_
