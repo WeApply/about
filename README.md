@@ -52,6 +52,8 @@ English Version: [theSource College App Community](README_en.md)
 - 知乎发发问卷
 - 微信做个公众号？
 
-## 加入我们
+## 如何加入
 
-[发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们，我们期待志同道合者的加入
+欢迎为这个项目做贡献！如果您想要帮助我们，可以采取两种途径：
+- 在我们的GitHub仓库提交issues或者pull request，或者；
+- [发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们的核心团队
