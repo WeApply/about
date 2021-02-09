@@ -40,11 +40,6 @@ English Version: [theSource College App Community](README_en.md)
 我们希望用中文制作一套申请流程的参考书，包括且不限于Common App、Coalition、UC Application、UCAS、OUAC等主流申请平台
 - 待添加
 
-**其他**
-
-作为一个社区项目：
-- 你说了算
-
 **宣传**
 
 为了让更多人给我们提供数据，并帮助到更多的未来留学生，我们需要宣传我们的计划与成果
@@ -52,8 +47,13 @@ English Version: [theSource College App Community](README_en.md)
 - 知乎发发问卷
 - 微信做个公众号？
 
+**有新点子？**
+
+作为一个社区项目：
+- 你说了算 :)
+
 ## 如何加入
 
 欢迎为这个项目做贡献！如果您想要帮助我们，可以采取两种途径：
-- 在我们的GitHub仓库提交issues或者pull request，或者；
+- 在我们的GitHub仓库提交issues或者pull request，或者
 - [发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们的核心团队
