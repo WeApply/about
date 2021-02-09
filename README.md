@@ -99,7 +99,7 @@ English Version: [theSource College App Community](README_en.md)
 - 在我们的GitHub仓库提交issues或者pull request，或者
 - [发送邮件](mailto:thesourcecollegeapp@outlook.com)以联系我们的核心团队
 
-## 组织架构
+## 组织架构 `草稿`
 
 作为一个社区项目，我们欢迎任何人参与进来。无论是在（未来的）问卷当中贡献您的匿名化数据给我们，还是在我们的GitHub仓库提交issues/ pull request，您都可以简单的为“源 · 申请”做贡献。
 
