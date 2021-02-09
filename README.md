@@ -1,4 +1,6 @@
 # 源 · 申请
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 English Version: [theSource College App Community](README_en.md)
 
 一个留学生社区主导的、回馈留学生社区的计划，旨在普及“DIY申请”并降低其门槛，让留学申请变得更简单、更便宜。
