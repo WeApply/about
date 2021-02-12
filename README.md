@@ -95,7 +95,7 @@ English Version: [WeApply](README_en.md)
 
 ## 如何加入
 
-欢迎为这个项目做贡献！如果您想要帮助我们，可以采取两种途径：
+欢迎为这个项目添砖加瓦！如果您想要帮助我们，可以采取两种途径：
 - 在我们的GitHub仓库提交issues或者pull request，或者
 - [发送邮件](mailto:weapply@outlook.com)以联系我们的核心团队
 
