@@ -1,7 +1,7 @@
 # We申请
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-English Version: [theSource College App Community](README_en.md)
+English Version: [WeApply](README_en.md)
 
 > DIY申请从未如此简明
 
