@@ -1,4 +1,13 @@
 # We申请
+
+**重要告知**
+
+本计划因缺少社区参与度的原因而暂时搁置。如果有人有类似想法的话无需经本项目同意即可根据本项目使用的协议使用组织内的任何资料。
+
+**Important Notice**
+
+Due to the lack of community involvement, this project's further development will be paused. Feel free to use any of the materials within the organization under the license used if you have similar ideas regarding the project.
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 English Version: [WeApply](README_en.md)
